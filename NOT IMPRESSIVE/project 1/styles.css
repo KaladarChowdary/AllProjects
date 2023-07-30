@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  border: 1px solid black;
+}
+
+.input_div {
+  position: fixed;
+  top: 45%;
+  left: 45%;
+
+  z-index: 99;
+}
+
+.item {
+  margin: 2px;
+  padding: 2px;
+}
